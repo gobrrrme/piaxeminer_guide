@@ -1,8 +1,4 @@
-# piaxe-miner_guide
-A short guide on how install [piaxeminer](https://github.com/shufps/piaxe-miner) and start mining
-
-
-# PiAxe Miner Installation Guide for Raspberry Pi
+# [PiAxe-Miner](https://github.com/shufps/piaxe-miner) Installation Guide for Raspberry Pi
 
 ## Prerequisites
 - Raspberry Pi (or similar device) running Linux
