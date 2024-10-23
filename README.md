@@ -169,4 +169,4 @@ Basic nano editor commands for any file edits:
 
 
 ## Warning
-This guide doesn't claim to be complete or a concrete tutorial, it shall just help you with the absolute basics. ALWAYS do your own research.
+This guide doesn't claim to be complete or a concrete tutorial, it shall just help you with the absolute basics. ALWAYS do your own research, start in the [PiAxe-Miner](https://github.com/shufps/piaxe-miner) repository.
